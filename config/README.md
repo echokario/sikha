@@ -107,7 +107,7 @@ Config vars are basically the variables which configure or modify bot to functio
 12. `SPOTIFY_ALBUM_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 13. `SPOTIFY_PLAYLIST_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 
-## Multi Assistant Mode
+## Multi Assistant Mode 1
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
